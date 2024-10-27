@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-const Blog = ({ blog }) => {
+const Blog = ({ blog, HandleBookmarks }) => {
     const {title, cover, author_img, author, posted_date, reading_time, hashtags} = blog;
     return (
         <div>
@@ -12,8 +12,9 @@ const Blog = ({ blog }) => {
                         <span>{posted_date}</span>
                     </div>
                 </div>
-                <div>
+                <div className='flex items-center'>
                     <span>{reading_time} min read</span>
+                    <button onClick={HandleBookmarks}> <img className='w-6 ml-2' src="https://img.icons8.com/?size=32&id=26087&format=png" alt="" /> </button>
                 </div>
             </div>
             <h2 className="text-3xl">{title}</h2>
