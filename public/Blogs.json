@@ -1,0 +1,47 @@
+[
+    {
+        "id": "001",
+        "cover": "https://example.com/cover1.jpg",
+        "title": "The Silent Forest",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "2024-10-27",
+        "reading_time": "5 min",
+        "hashtags": ["#nature", "#mystery", "#adventure", "#shortstory"]
+    },
+    {
+        "id": "002",
+        "cover": "https://example.com/cover2.jpg",
+        "title": "Echoes of the Past",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2024-10-26",
+        "reading_time": "8 min",
+        "hashtags": ["#history", "#thriller", "#ghosts", "#novella"]
+    },
+    {
+        "id": "003",
+        "cover": "https://example.com/cover3.jpg",
+        "title": "Beyond the Horizon",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2024-10-25",
+        "reading_time": "6 min",
+        "hashtags": ["#adventure", "#exploration", "#journey", "#travel"]
+    },
+    {
+        "id": "004",
+        "cover": "https://example.com/cover4.jpg",
+        "title": "Voices of the Underdog",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2024-10-24",
+        "reading_time": "7 min",
+        "hashtags": ["#socialjustice", "#inspiration", "#biography", "#underdog"]
+    },
+    {
+        "id": "005",
+        "cover": "https://example.com/cover5.jpg",
+        "title": "Shadows of Time",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2024-10-23",
+        "reading_time": "10 min",
+        "hashtags": ["#timetravel", "#sci-fi", "#future", "#shortstory"]
+    }
+]
